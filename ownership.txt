@@ -1,0 +1,7 @@
+MAKE~MODEL~TYPE~PRICE~OWNER~ADDRESS~PHONE~JOB
+Toyota~Camry~Sedan~18000~Jason Hickle~104 something~978-0788~TechAssistant
+Toyota~Tacoma~Truck~19000~Debra Chill~Who Knows~999-8984~Secratery
+Ford~Mustang~Sport~21000~Jack Weston~Texas~777-8181~Doctor
+Chevrolet~Corvette~Sport~48000~Jack So~Washington~999-5645~Carpenter
+Ford~F150~Truck~25000~Lily Rocks~California~989-7766~Nurse
+Toyota~Highlander~SUV~35000~Barbra Melton~New York~555-3434~Teacher

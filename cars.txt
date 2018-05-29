@@ -1,0 +1,7 @@
+MAKE~MODEL~TYPE~PRICE
+Toyota~Camry~Sedan~18000
+Toyota~Tacoma~Truck~19000
+Ford~Mustang~Sport~21000
+Chevrolet~Corvette~Sport~48000
+Ford~F150~Truck~25000
+Toyota~Highlander~SUV~35000
